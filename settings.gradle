@@ -1,0 +1,4 @@
+include 'testing'
+
+rootProject.name = projName;
+
